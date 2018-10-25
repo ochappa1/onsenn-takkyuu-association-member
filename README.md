@@ -1,0 +1,1 @@
+# onsenn-takkyuu-association-member
