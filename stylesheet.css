@@ -26,9 +26,17 @@ li {
   float: left;
   padding: 33px 20px;
 }
+
 .Midashi{
   font-size: 30px;
-  font-family:  "Impact";
+  border-bottom: 2px solid #dee7ec;
+}
+.introduction h1{
+  border-bottom: 2px solid #dee7ec;
+}
+.introduction{
+  height:500px;
+  color:black;
 }
 .persons{
   font-size: 20px;
@@ -38,14 +46,15 @@ li {
 img.pictures{
   height:300px;
   width:300px;
-  border:1.5px solid black;
+  border:2px solid black;
   margin:5px;
 }
+
 .footer {
-  background-color: #2f5167;
   color: #fff;
   height: 120px;
   padding: 40px;
+  background-color: #2f5167;
 }
 
 .footer-logo {
