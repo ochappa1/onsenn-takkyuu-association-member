@@ -27,81 +27,35 @@ li {
   padding: 33px 20px;
 }
 
-.main {
-  padding: 100px 80px;
-}
-
-.copy-container{
-  color:black;
-}
-.copy-container h1 {
-  font-size: 140px;
-}
-
-.copy-container h2 {
-  font-size: 60px;
-}
-
-.copy-container span {
-  color: #a52a2a;
-  font-family:"Yu Mincho";
-}
-
-
-.contents{
-  height:700px;
-  color:black;
-}
-
-
-.section-title{
+.Midashi{
+  font-size: 30px;
   border-bottom: 2px solid #dee7ec;
 }
-
-.contents-item{
+.introduction h1{
+  border-bottom: 2px solid #dee7ec;
+}
+.introduction{
+  height:800px;
+  color:black;
+}
+.persons{
+  font-size: 20px;
   float:left;
+  text-align: center;
 }
 
 img.pictures{
-  width:200px;
-  height:250px;
-  border:5px solid black;
-  margin:2px;
+  height:300px;
+  width:300px;
+  border:2px solid black;
+  margin:5px;
 }
 
-
-.facebook {
-  background-color: #3b5998;
-  margin-right:5px;
-}
-
-.twitter {
-  background-color: #55acee;
-}
-
-.btn {
-  padding: 8px 24px;
-  color: white;
-  display: inline-block;
-  opacity: 0.8;
-  border-radius: 4px;
-}
-
-.btn:hover {
-  opacity: 1;
-}
-
-.fa {
-  margin-right: 5px;
-}
-.sharings{
-  margin: 10px;
-}
 .footer {
-  background-color: #2f5167;
   color: #fff;
   height: 120px;
   padding: 40px;
+  background-color: #2f5167;
 }
 
 .footer-logo {
